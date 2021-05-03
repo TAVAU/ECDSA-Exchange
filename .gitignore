@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 !.gitignore
 node_modules
+=======
+dist
+.cache
+!.gitignore
+>>>>>>> 97855b816c1e903585c5c7fedf5098fc4c4dfd0a
 *.lock
